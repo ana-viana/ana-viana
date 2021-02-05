@@ -10,9 +10,9 @@
 
 - ### JavaScript;
 
-- ### Python;
+- ### Vue.Js
 
-- ### Django;
+- ### React.Js
 
 - ### Bootstrap;
 
@@ -20,7 +20,7 @@
 
 
 
-### Meu objetivo é ser FullStack, e SÓ ACEITO SER MUITO BOA!!!
+### Meu objetivo é ser FrontEnd, e SÓ ACEITO SER MUITO BOA!!!
 
 
 
