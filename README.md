@@ -2,7 +2,9 @@
 
 
 
-### Estou direcionando minha carreira para TI há pouco mais de um ano e desde então tenho aprendido algumas coisinhas...
+### Graduanda em Ciência de Dados e cursos práticos para desenvolvimento do pensamento analítico para utilizar as ferramentas certas na busca pela solução dos problemas de negócios através da análise de dados.
+### 20+ anos experiência no setor contábil.
+### 3+ anos criação de um modelo de fast food.
 
 
 
@@ -10,11 +12,13 @@
 
 
 
-- ### HTML Semântico;
+- ### Pyton para Ciência de Dados;
 
-- ### CSS;
+- ### SQL;
 
-- ### JavaScript;
+- ### AWS Cloud;
+
+- ### GCP;
 
 
 
